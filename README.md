@@ -1,9 +1,11 @@
 # git_test
 
-#Now using VS to commit instead of CLI
+Now using VS to commit instead of CLI
 
-#Testing commiting to git through CLI
+Testing commiting to git through CLI
 
-#Testing for the 4th time but now in VS through Terminal
+Testing for the 4th time but now in VS through Terminal
 
-#Test 5 Cleared hello_world.txt and removed test.txt
+Test 5 Cleared hello_world.txt and removed test.txt
+
+Test 13
