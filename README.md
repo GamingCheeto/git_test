@@ -6,4 +6,4 @@
 
 #Testing for the 4th time but now in VS through Terminal
 
-#Test 5
+#Test 5 Cleared hello_world.txt and removed test.txt
