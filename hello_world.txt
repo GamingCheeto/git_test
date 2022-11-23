@@ -1,1 +1,3 @@
 #Testing commiting to git through CLI
+
+#Testing for the 4th time but now in VS through Terminal
